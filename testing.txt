@@ -6,4 +6,4 @@ git init
 .git means hidded directory got created
 
 Connections to remote repository side after initializing
-git remote add origin https://github.com/vv1257/sample-repo.git
+git remote add origin https://github.com/vv1257/sample.git
