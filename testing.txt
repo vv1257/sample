@@ -5,5 +5,15 @@ git init
 
 .git means hidded directory got created
 
+Crete a folder on PC and navigate to the particulat folder in git bash
+
 Connections to remote repository side after initializing
 git remote add origin https://github.com/vv1257/sample.git
+
+before pushing use the below two commands
+ git config --global user.email "vishalvaibhav.57@outlook.com"
+ git config --global user.name "vishal"
+
+
+
+make changes to the code and push the code
